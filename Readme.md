@@ -4,3 +4,5 @@
 
 * src/main.py
 * test.main.py 
+
+# added requirments.txt 
